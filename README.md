@@ -1,6 +1,6 @@
 # Dimas Picinato
 
-Desenvolvedor Full Stack com foco em aplicações web modernas, utilizando tecnologias do ecossistema Node.js e TypeScript. Atualmente atuo como desenvolvedor na **AD Soluções em Tecnologia** desde abril de 2023 e desenvolvo um sistema de gestão de estudos para autodidatas como projeto de TCC.
+Desenvolvedor Full Stack com foco em aplicações web, utilizando tecnologias do ecossistema Node.js e TypeScript. Atualmente atuo como desenvolvedor na **AD Soluções em Tecnologia** desde abril de 2023 e desenvolvo um sistema de gestão de estudos para autodidatas como projeto de TCC.
 
 ---
 
