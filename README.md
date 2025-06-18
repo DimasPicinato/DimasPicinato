@@ -1,10 +1,10 @@
 # Dimas Picinato
 
-Desenvolvedor Full Stack com foco em aplicações web modernas, utilizando tecnologias do ecossistema Node.js e TypeScript. Atualmente atuo como desenvolvedor na **AD Soluções em Tecnologia** e desenvolvo um sistema de gestão de estudos para autodidatas como projeto de TCC.
+Desenvolvedor Full Stack com foco em aplicações web modernas, utilizando tecnologias do ecossistema Node.js e TypeScript. Atualmente atuo como desenvolvedor na **AD Soluções em Tecnologia** desde abril de 2023 e desenvolvo um sistema de gestão de estudos para autodidatas como projeto de TCC.
 
 ---
 
-## Tecnologias
+## Stack Principal
 
 ### Back-End
 - Node.js, TypeScript
@@ -18,8 +18,30 @@ Desenvolvedor Full Stack com foco em aplicações web modernas, utilizando tecno
 ### Bancos de Dados
 - PostgreSQL, Redis, MongoDB, MySQL
 
-### Outros
-- Git, Docker, REST, GraphQL, WebSockets, CI/CD, entre outras bibliotecas e ferramentas do ecossistema JavaScript/TypeScript
+---
+
+## Outras Ferramentas
+
+- Git, GitHub  
+- Jira, Plane  
+- Figma  
+
+---
+
+## Metodologias
+
+- Kanban  
+- Scrum  
+- Metodologias Ágeis  
+
+---
+
+## Arquiteturas Aplicadas
+
+- Domain-Driven Design (DDD)  
+- Clean Architecture  
+- MVC (Model-View-Controller)  
+- MVVM (Model-View-ViewModel)  
 
 ---
 
@@ -30,6 +52,14 @@ Plataforma voltada para planejamento e acompanhamento de estudos autodidatas. En
 
 ---
 
+## Formação
+
+Atualmente curso **AMS (Articulação da Formação Profissional Média e Superior)** com habilitação técnica em **Desenvolvimento de Sistemas** na **ETEC de Lins**, desde 2023.  
+- Previsão de conclusão do Ensino Médio: **2025**  
+- Previsão de conclusão da graduação em **Análise e Desenvolvimento de Sistemas**: **2027**
+
+---
+
 ## Contato
 
 - Site: [dpicinato.com](https://dpicinato.com)  
@@ -37,3 +67,5 @@ Plataforma voltada para planejamento e acompanhamento de estudos autodidatas. En
 - E-mail: [contato@dpicinato.com](mailto:contato@dpicinato.com)
 
 ---
+
+Obrigado pela visita ao meu perfil.
