@@ -75,7 +75,7 @@ Plataforma voltada ao planejamento e acompanhamento de estudos autodidatas. Perm
 
 - Acesso: [studium.dpicinato.com](https://studium.dpicinato.com)
 - Documentação do TCC: [Ver documento](https://1drv.ms/w/c/28101b22d866d1f2/EezisylLLmxHllkzittfEB0BYi59H9tOqA45Y90rtfljOA?e=fSfC0r)
-- Stack: Next.js, NestJS, Jest, PostgreSQL, Redis
+- Stack: Next.js, NestJS, Prisma, Jest, PostgreSQL, Redis
 - Arquitetura:
   - Back-End: Clean Architecture e Domain-Driven Design (DDD)
   - Front-End: MVVM
@@ -91,7 +91,7 @@ Sistema de gerenciamento de quadros Kanban de código aberto, com funcionalidade
 - Repositórios:
   - [Frontend](https://github.com/D-Picinato/kanbanager-front)
   - [Backend](https://github.com/D-Picinato/kanbanager-back)
-- Stack: React, NestJS, Jest, PostgreSQL, MongoDB, Redis
+- Stack: React, NestJS, Prisma, Jest, PostgreSQL, MongoDB, Redis
 - Arquitetura:
   - Back-End: Clean Architecture e Domain-Driven Design (DDD)
   - Front-End: MVVM
