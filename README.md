@@ -84,10 +84,9 @@ Plataforma voltada ao planejamento e acompanhamento de estudos autodidatas. Perm
 ---
 
 ### Kanbanager
-Sistema de gerenciamento de quadros Kanban de código aberto, com funcionalidades de autenticação, projetos, quadros e tarefas.
+Sistema de gerenciamento de quadros Kanban de código aberto, com funcionalidades para gestão de projetos, quadros e tasks.
 
-- Front-End: [kanbanager.dpicinato.com](https://kanbanager.dpicinato.com)
-- Back-End: [api-kanbanager.dpicinato.com](https://api-kanbanager.dpicinato.com)
+- Acesso: [kanbanager.dpicinato.com](https://kanbanager.dpicinato.com)
 - Repositórios:
   - [Frontend](https://github.com/D-Picinato/kanbanager-front)
   - [Backend](https://github.com/D-Picinato/kanbanager-back)
@@ -115,9 +114,7 @@ Aplicação desenvolvida no projeto final do treinamento interno Beginner, utili
 
 - Acesso: [beginner-tmdb.dpicinato.com](https://beginner-tmdb.dpicinato.com)
 - Repositório: [github.com/D-Picinato/projeto-beginner-tmdb](https://github.com/D-Picinato/projeto-beginner-tmdb)
-- Stack: HTML, CSS, JavaScript
-- Arquitetura:
-  - Front-End: Estrutura básica sem padrão arquitetural definido
+- Stack: HTML, CSS e JavaScript
 
 ---
 
@@ -128,7 +125,6 @@ Aplicação de lista de tarefas desenvolvida para uma Master Class ao vivo sobre
 - Repositório: [github.com/D-Picinato/todolist](https://github.com/D-Picinato/todolist)
 - Vídeo da apresentação: [YouTube](https://www.youtube.com/watch?v=maf5T3tqiIw)
 - Stack: React
-- Arquitetura: Não aplicada
 
 ---
 
