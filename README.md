@@ -16,13 +16,13 @@ Desenvolvedor Full Stack com foco em aplicações web, utilizando tecnologias do
 
 Atuo como desenvolvedor web na **AD Soluções em Tecnologia** desde abril de 2024.
 
-- Iniciei como desenvolvedor front-end web utilizando React.
-- Fui mentor, junto com outro desenvolvedor, no treinamento interno **Beginner**, onde ministramos aulas ao vivo sobre HTML, CSS, Tailwind, Bootstrap e JavaScript. O treinamento culminou em um projeto final: um site de informações sobre filmes e séries consumindo a API do TMDB. [Clique aqui](https://beginner-tmdb.dpicinato.com) para ver o site.
-- Paralelamente, assumi a função de analista de requisitos, realizando reuniões com clientes para levantamento e definição de requisitos do sistema, adquirindo experiência significativa nessa área.
-- No segundo trimestre de 2025, junto com outros desenvolvedores, definimos um novo padrão arquitetural para os projetos da empresa:
-  - Para projetos menores, adotamos NestJS com Clean Architecture e DDD como core da stack.
-  - Para projetos maiores, usamos Spring Boot (estou em processo de aprendizado de Java e Spring Boot).
-  - No front-end, escolhemos entre React ou Next.js conforme a necessidade de SEO do projeto.
+- Iniciei como desenvolvedor **front-end** web utilizando **React**.
+- Fui **mentor**, junto com outro desenvolvedor, no treinamento interno **Beginner**, onde ministramos aulas ao vivo sobre **HTML**, **CSS**, **Tailwind**, **Bootstrap** e **JavaScript**. O treinamento culminou em um projeto final: um site de informações sobre filmes e séries consumindo a API do TMDB. [Clique aqui](https://beginner-tmdb.dpicinato.com) para ver o site.
+- Paralelamente, assumi a função de **analista de requisitos**, realizando reuniões com **clientes** para **levantamento e definição de requisitos** do sistema, adquirindo experiência significativa nessa área.
+- No segundo trimestre de 2025, junto com outros desenvolvedores, definimos um **novo padrão arquitetural** para os projetos da empresa:
+  - Para projetos menores, adotamos **NestJS** com **Clean Architecture** e **DDD** como core da stack.
+  - Para projetos maiores, usamos **Spring Boot** (estou em processo de aprendizado de **Java** e **Spring Boot**).
+  - No **front-end**, escolhemos entre **React** ou **Next.js** conforme a necessidade de **SEO do projeto**.
 
 ---
 
