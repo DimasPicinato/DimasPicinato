@@ -38,7 +38,9 @@ Atuo como desenvolvedor web na **AD Soluções em Tecnologia** desde abril de 20
 - TailwindCSS, Sass, ShadCN
 
 ### Bancos de Dados
-- PostgreSQL, Redis, MongoDB, MySQL
+- PostgreSQL, MySQL, SQLite
+- Redis
+- MongoDB
 
 ---
 
@@ -70,7 +72,7 @@ Atuo como desenvolvedor web na **AD Soluções em Tecnologia** desde abril de 20
 
 ## Projetos
 
-### Studium (Sistema de Gestão de Estudos)
+### Studium
 Plataforma voltada ao planejamento e acompanhamento de estudos autodidatas. Permite o gerenciamento de metas, métricas de progresso e autoavaliações.
 
 - Acesso: [studium.dpicinato.com](https://studium.dpicinato.com)
@@ -103,7 +105,7 @@ Site pessoal com portfólio de projetos e blog técnico.
 
 - Acesso: [dpicinato.com](https://dpicinato.com)
 - Repositório: [github.com/DimasPicinato/dpicinato](https://github.com/DimasPicinato/dpicinato)
-- Stack: Next.js, MongoDB
+- Stack: Next.js, SQLite
 - Arquitetura:
   - Full Stack: MVC
 
