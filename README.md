@@ -88,8 +88,8 @@ Sistema de gerenciamento de quadros Kanban de código aberto, com funcionalidade
 
 - Acesso: [kanbanager.dpicinato.com](https://kanbanager.dpicinato.com)
 - Repositórios:
-  - [Frontend](https://github.com/D-Picinato/kanbanager-front)
-  - [Backend](https://github.com/D-Picinato/kanbanager-back)
+  - [Frontend](https://github.com/DimasPicinato/kanbanager-front)
+  - [Backend](https://github.com/DimasPicinato/kanbanager-back)
 - Stack: React, NestJS, Prisma, Jest, PostgreSQL, MongoDB, Redis
 - Arquitetura:
   - Back-End: Clean Architecture e Domain-Driven Design (DDD)
@@ -102,7 +102,7 @@ Sistema de gerenciamento de quadros Kanban de código aberto, com funcionalidade
 Site pessoal com portfólio de projetos e blog técnico.
 
 - Acesso: [dpicinato.com](https://dpicinato.com)
-- Repositório: [github.com/D-Picinato/dpicinato](https://github.com/D-Picinato/dpicinato)
+- Repositório: [github.com/DimasPicinato/dpicinato](https://github.com/DimasPicinato/dpicinato)
 - Stack: Next.js, MongoDB
 - Arquitetura:
   - Full Stack: MVC
@@ -113,7 +113,7 @@ Site pessoal com portfólio de projetos e blog técnico.
 Aplicação desenvolvida no projeto final do treinamento interno Beginner, utilizando a API do TMDB para exibir informações sobre filmes e séries.
 
 - Acesso: [beginner-tmdb.dpicinato.com](https://beginner-tmdb.dpicinato.com)
-- Repositório: [github.com/D-Picinato/projeto-beginner-tmdb](https://github.com/D-Picinato/projeto-beginner-tmdb)
+- Repositório: [github.com/DimasPicinato/projeto-beginner-tmdb](https://github.com/DimasPicinato/projeto-beginner-tmdb)
 - Stack: HTML, CSS e JavaScript
 
 ---
@@ -122,7 +122,7 @@ Aplicação desenvolvida no projeto final do treinamento interno Beginner, utili
 Aplicação de lista de tarefas desenvolvida para uma Master Class ao vivo sobre React, apresentada na empresa onde atuo.
 
 - Acesso: [todolist.dpicinato.com](https://todolist.dpicinato.com)
-- Repositório: [github.com/D-Picinato/todolist](https://github.com/D-Picinato/todolist)
+- Repositório: [github.com/DimasPicinato/todolist](https://github.com/DimasPicinato/todolist)
 - Vídeo da apresentação: [YouTube](https://www.youtube.com/watch?v=maf5T3tqiIw)
 - Stack: React
 
