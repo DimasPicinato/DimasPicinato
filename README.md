@@ -85,32 +85,6 @@ Plataforma voltada ao planejamento e acompanhamento de estudos autodidatas. Perm
 
 ---
 
-### Kanbanager
-Sistema de gerenciamento de quadros Kanban de código aberto, com funcionalidades para gestão de projetos, quadros e tasks.
-
-- Acesso: [kanbanager.dpicinato.com](https://kanbanager.dpicinato.com)
-- Repositórios:
-  - [Frontend](https://github.com/DimasPicinato/kanbanager-front)
-  - [Backend](https://github.com/DimasPicinato/kanbanager-back)
-- Stack: React, NestJS, Prisma, Jest, PostgreSQL, MongoDB, Redis
-- Arquitetura:
-  - Back-End: Clean Architecture e Domain-Driven Design (DDD)
-  - Front-End: MVVM
-- Documentação da API: Swagger
-
----
-
-### Site Pessoal
-Site pessoal com portfólio de projetos e blog técnico.
-
-- Acesso: [dpicinato.com](https://dpicinato.com)
-- Repositório: [github.com/DimasPicinato/dpicinato](https://github.com/DimasPicinato/dpicinato)
-- Stack: Next.js, SQLite
-- Arquitetura:
-  - Full Stack: MVC
-
----
-
 ### Projeto Beginner - TMDB
 Aplicação desenvolvida no projeto final do treinamento interno Beginner, utilizando a API do TMDB para exibir informações sobre filmes e séries.
 
