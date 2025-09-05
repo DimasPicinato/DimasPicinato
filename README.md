@@ -1,6 +1,6 @@
 # Dimas Picinato
 
-Desenvolvedor **Full Stack** com foco em aplicações web, utilizando tecnologias do ecossistema **Node.js** e **TypeScript**. Atualmente atuo como desenvolvedor na **AD Soluções em Tecnologia** desde abril de 2024 e desenvolvo um sistema de gestão de estudos para autodidatas como projeto de TCC.
+Sou desenvolvedor **Full Stack** com foco em aplicações web, utilizando tecnologias do ecossistema **Node.js** e **TypeScript**. Atuei na AD Soluções em Tecnologia entre Abril de 2024 e Agosto de 2025, onde trabalhei com desenvolvimento web, mentoria técnica e análise de requisitos. Atualmente, dedico-me ao meu TCC (Studium) que é apresentado abaixo.
 
 ---
 
@@ -14,55 +14,36 @@ Desenvolvedor **Full Stack** com foco em aplicações web, utilizando tecnologia
 
 ## Experiência
 
-Atuo como desenvolvedor web na **AD Soluções em Tecnologia** desde abril de 2024.
-
+### AD Soluções em Tecnologia (abr/2023 - ago/2025)
+Atuei como desenvolvedor web, mentor e analista de requisitos. Durante o período:
 - Iniciei como desenvolvedor **front-end** web utilizando **React**.
-- Fui **mentor**, junto com outro desenvolvedor, no treinamento interno **Beginner**, onde ministramos aulas ao vivo sobre **HTML**, **CSS**, **Tailwind**, **Bootstrap** e **JavaScript**. O treinamento culminou em um projeto final: um site de informações sobre filmes e séries consumindo a API do TMDB. [Clique aqui](https://beginner-tmdb.dpicinato.com) para ver o site.
-- Paralelamente, assumi a função de **analista de requisitos**, realizando reuniões com **clientes** para **levantamento e definição de requisitos** do sistema, adquirindo experiência significativa nessa área.
-- No segundo trimestre de 2025, junto com outros desenvolvedores, definimos um **novo padrão arquitetural** para os projetos da empresa:
+- Fui **mentor**, junto com outro desenvolvedor, no treinamento interno **Beginner**, onde ministramos aulas ao vivo sobre **HTML**, **CSS**, **Tailwind**, **Bootstrap** e **JavaScript**. O treinamento culminou em um projeto final: um site de informações sobre filmes e séries consumindo a API do TMDB. [Veja aqui](https://beginner-tmdb.dpicinato.com).
+- Atuei como **analista de requisitos**, realizando reuniões com **clientes** para **levantamento e definição de requisitos** do sistema.
+- Participei da definição de **Novos padrões arquiteturais** da empresa:
   - Para projetos menores, adotamos **NestJS** com **Clean Architecture** e **DDD** como core da stack.
-  - Para projetos maiores, usamos **Spring Boot** (estou em processo de aprendizado de **Java** e **Spring Boot**).
-  - No **front-end**, escolhemos entre **React** ou **Next.js** conforme a necessidade de **SEO do projeto**.
+  - Para projetos maiores, usamos **Spring Boot** (iniciando aprendizado em **Java**/**Spring Boot**).
+  - Para **front-end**, escolhemos entre **React** ou **Next.js** conforme a necessidade de **SEO**.
 
 ---
 
 ## Stack Principal
-
-### Back-End
-- Node.js, TypeScript
-- NestJS, Fastify, Express
-- Prisma ORM, Jest
-
-### Front-End
-- React, Next.js
-- TailwindCSS, Sass, ShadCN
-
-### Bancos de Dados
-- PostgreSQL, MySQL, SQLite
-- Redis
-- MongoDB
-
----
+- **Linguagens**: JavaScript e TypeScript
+- **Back-End**: Node.js, NestJS, Fastify, Express, Prisma ORM, Jest
+- **Front-End**: Next.js, React, TailwindCSS, Sass, ShadCN
+- **Bancos de Dados**: PostgreSQL, MySQL, SQLite, Redis, MongoDB
 
 ## Outras Ferramentas
-
 - Git, GitHub
 - Jira, Plane
 - Figma
 - Docker, Coolify
 
----
-
 ## Metodologias
-
 - Kanban
 - Scrum
 - Metodologias Ágeis
 
----
-
-## Arquiteturas Aplicadas
-
+## Arquiteturas e Padrões Aplicados
 - Domain-Driven Design (DDD)
 - Clean Architecture
 - MVC (Model-View-Controller)
@@ -70,16 +51,15 @@ Atuo como desenvolvedor web na **AD Soluções em Tecnologia** desde abril de 20
 
 ---
 
-## Projetos
+## Projetos em Destaque
 
-### Studium
-Plataforma voltada ao planejamento e acompanhamento de estudos autodidatas. Permite o gerenciamento de metas, métricas de progresso e autoavaliações.
+### Studium (TCC em Andamento)
+Plataforma voltada ao planejamento e acompanhamento de estudos autodidatas. Permite o gerenciamento de tempo, métricas de progresso e autoavaliações.
 
 - Acesso: [studium.dpicinato.com](https://studium.dpicinato.com)
-- Documentação do TCC: [Ver documento](https://1drv.ms/w/c/28101b22d866d1f2/EezisylLLmxHllkzittfEB0BYi59H9tOqA45Y90rtfljOA?e=fSfC0r)
 - Stack: Next.js, NestJS, Prisma, Jest, PostgreSQL, Redis
 - Arquitetura:
-  - Back-End: Clean Architecture e Domain-Driven Design (DDD)
+  - Back-End: Clean Architecture e Domain-Driven Design
   - Front-End: MVVM
 - Documentação da API: Swagger
 
@@ -95,19 +75,12 @@ Aplicação desenvolvida no projeto final do treinamento interno Beginner, utili
 ---
 
 ### To Do List (Master Class)
-Aplicação de lista de tarefas desenvolvida para uma Master Class ao vivo sobre React, apresentada na empresa onde atuo.
+Aplicação de lista de tarefas desenvolvida para uma Master Class ao vivo sobre React, apresentada na empresa AD Soluções em Tecnologia.
 
 - Acesso: [todolist.dpicinato.com](https://todolist.dpicinato.com)
 - Repositório: [github.com/DimasPicinato/todolist](https://github.com/DimasPicinato/todolist)
 - Vídeo da apresentação: [YouTube](https://www.youtube.com/watch?v=maf5T3tqiIw)
 - Stack: React
-
----
-
-## Projeto Atual
-
-**Sistema de Gestão de Estudos (Studium)**  
-Plataforma voltada para planejamento e acompanhamento de estudos autodidatas. Envolve funcionalidades como definição de metas, métricas de progresso e autoavaliações.
 
 ---
 
