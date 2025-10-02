@@ -14,7 +14,7 @@ Sou desenvolvedor **Full Stack** com foco em aplicações web, utilizando tecnol
 
 ## Experiência
 
-### AD Soluções em Tecnologia (abr/2023 - ago/2025)
+### AD Soluções em Tecnologia (abr/2024 - ago/2025)
 Atuei como desenvolvedor web, mentor e analista de requisitos. Durante o período:
 - Iniciei como desenvolvedor **front-end** web utilizando **React**.
 - Fui **mentor**, junto com outro desenvolvedor, no treinamento interno **Beginner**, onde ministramos aulas ao vivo sobre **HTML**, **CSS**, **Tailwind**, **Bootstrap** e **JavaScript**. O treinamento culminou em um projeto final: um site de informações sobre filmes e séries consumindo a API do TMDB. [Veja aqui](https://beginner-tmdb.dpicinato.com).
