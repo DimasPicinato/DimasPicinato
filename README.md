@@ -30,7 +30,7 @@ Atuei como desenvolvedor web, mentor e analista de requisitos. Durante o períod
 - **Linguagens**: JavaScript e TypeScript
 - **Back-End**: Node.js, NestJS, Fastify, Express, Prisma ORM, Jest
 - **Front-End**: Next.js, React, TailwindCSS, Sass, ShadCN
-- **Bancos de Dados**: PostgreSQL, MySQL, SQLite, Redis, MongoDB
+- **Bancos de Dados**: PostgreSQL, MySQL, SQLite, Redis
 
 ## Outras Ferramentas
 - Git, GitHub
