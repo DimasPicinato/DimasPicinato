@@ -105,7 +105,7 @@ Projeto de organização de quadros Kanban
 ### Calculadora de Área de Volume de Sólidos Geométricos
 Projeto desenvolvido para um trabalho escolar de matemática.
 
-- Acesso: [kanbanager.dpicinato.com](https://kanbanager.dpicinato.com)
+- Acesso: [cvasg.dpicinato.com](https://kanbanager.dpicinato.com)
 - Repositório: [https://github.com/DimasPicinato/cvasg](https://github.com/DimasPicinato/cvasg)
 - Stack: React, Tailwind
 
