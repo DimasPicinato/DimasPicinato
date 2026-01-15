@@ -6,7 +6,7 @@ Sou desenvolvedor **Full Stack** com foco em aplicações web, utilizando tecnol
 
 ## Contato
 
-- Site: [dpicinato.com](https://dpicinato.com)
+<!-- - Site: [dpicinato.com](https://dpicinato.com) -->
 - LinkedIn: [linkedin.com/in/dimas-picinato](https://www.linkedin.com/in/dimas-picinato)
 - E-mail: [contato@dpicinato.com](mailto:contato@dpicinato.com)
 
@@ -21,7 +21,7 @@ Atuei como desenvolvedor web, mentor e analista de requisitos. Durante o períod
 - Atuei como **analista de requisitos**, realizando reuniões com **clientes** para **levantamento e definição de requisitos** do sistema.
 - Participei da definição de **Novos padrões arquiteturais** da empresa:
   - Para projetos menores, adotamos **NestJS** com **Clean Architecture** e **DDD** como core da stack.
-  - Para projetos maiores, usamos **Spring Boot** (iniciando aprendizado em **Java**/**Spring Boot**).
+  - Para projetos maiores, adotamos **Spring Boot**.
   - Para **front-end**, escolhemos entre **React** ou **Next.js** conforme a necessidade de **SEO**.
 
 ---
@@ -51,8 +51,8 @@ Atuei como desenvolvedor web, mentor e analista de requisitos. Durante o períod
 
 ---
 
-## Projetos em Destaque
-
+## Projetos
+<!--
 ### Studium (TCC em Andamento)
 Plataforma voltada ao planejamento e acompanhamento de estudos autodidatas. Permite o gerenciamento de tempo, métricas de progresso e autoavaliações.
 
@@ -63,7 +63,7 @@ Plataforma voltada ao planejamento e acompanhamento de estudos autodidatas. Perm
   - Front-End: MVVM
 - Documentação da API: Swagger
 
----
+--- -->
 
 ### Projeto Beginner - TMDB
 Aplicação desenvolvida no projeto final do treinamento interno Beginner, utilizando a API do TMDB para exibir informações sobre filmes e séries.
@@ -74,22 +74,49 @@ Aplicação desenvolvida no projeto final do treinamento interno Beginner, utili
 
 ---
 
+### Sudoku
+Um site para jogar sudoku com níveis de dificuldade Fácil, Médio e Difícil.
+
+- Acesso: [sudoku.dpicinato.com](https://sudoku.dpicinato.com)
+- Repositório: [https://github.com/DimasPicinato/sudoku](https://github.com/DimasPicinato/sudoku)
+- Stack: React, Tailwind
+
+---
+
 ### To Do List (Master Class)
 Aplicação de lista de tarefas desenvolvida para uma Master Class ao vivo sobre React, apresentada na empresa AD Soluções em Tecnologia.
 
 - Acesso: [todolist.dpicinato.com](https://todolist.dpicinato.com)
-- Repositório: [github.com/DimasPicinato/todolist](https://github.com/DimasPicinato/todolist)
+- Repositório: [https://github.com/DimasPicinato/todolist](https://github.com/DimasPicinato/todolist)
 - Vídeo da apresentação: [YouTube](https://www.youtube.com/watch?v=maf5T3tqiIw)
 - Stack: React
 
 ---
 
+### Kanbanager
+Projeto de organização de quadros Kanban
+
+- Acesso: [kanbanager.dpicinato.com](https://kanbanager.dpicinato.com)
+- Repositório: [https://github.com/DimasPicinato/kanbanager-front](https://github.com/DimasPicinato/kanbanager-front)
+- Stack: React, Scss
+
+---
+
+### Calculadora de Área de Volume de Sólidos Geométricos
+Projeto desenvolvido para um trabalho escolar de matemática.
+
+- Acesso: [kanbanager.dpicinato.com](https://kanbanager.dpicinato.com)
+- Repositório: [https://github.com/DimasPicinato/cvasg](https://github.com/DimasPicinato/cvasg)
+- Stack: React, Tailwind
+
+---
+
 ## Formação
 
-Atualmente curso **AMS (Articulação da Formação Profissional Média e Superior)** com habilitação técnica em **Desenvolvimento de Sistemas** na **ETEC de Lins**, desde 2023.
+Curso **AMS** (Articulação da Formação Profissional Média e Superior), programa integrado do **Centro Paula Souza** (CPS) realizado em parceria entre a ETEC de Lins e a Fatec de Lins, que articula **Ensino Médio**, **Técnico** e **Superior** no eixo de **Análise e Desenvolvimento de Sistemas**, com progressão direta do **nível técnico** para o **tecnológico**.
 
-- Previsão de conclusão do Ensino Médio: **2025**
-- Previsão de conclusão da graduação em **Análise e Desenvolvimento de Sistemas**: **2027**
+- **Ensino Médio** com **Técnico** em **Análise e Desenvolvimento de Sistema** concluído em **2025**
+- Previsão de conclusão da **graduação** em **Análise e Desenvolvimento de Sistemas**: **2027**
 
 ---
 
