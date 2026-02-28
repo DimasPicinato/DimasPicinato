@@ -55,7 +55,7 @@ Sou desenvolvedor **Full Stack**, com foco em **Node.js** e **TypeScript/JavaScr
 
 ## Experiência
 
-### u-Shar (out/2025 - dez/2025)
+### u-Shar (out/2025 - mar/2026)
 
 Atuei no **refactoring do front-end** de um sistema legado, migrando de uma base simples em **HTML**, **CSS** e **JavaScript** para uma stack mais robusta com **React**, **TailwindCSS** e **ShadCN**. Iniciei o refactoring de forma solo, **definindo um padrão de desenvolvimento** inspirado em MVVM, com separação clara de responsabilidades entre as camadas do sistema. Com a expansão da equipe para mais desenvolvedores, passei a atuar também na **revisão e avaliação de Pull Requests**, garantindo qualidade, consistência arquitetural e aderência aos padrões definidos antes do merge na branch principal.
 
